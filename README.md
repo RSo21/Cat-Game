@@ -7,7 +7,7 @@ Help Luna catch as many moons as possible!
 This is my first game created using HTML, CSS and JavaScript as homework at CodersLab workshop.
 Only for desktop.
 
-![Image description]('../images/moon.jpg')
+![Image description]('./images/moon.jpg')
 
 ## Technologies:
 
@@ -17,6 +17,6 @@ CSS
 
 ## Live DEMO
 
-Try this working demo: [FurryGame]https://rso21.github.io/Furry-Game-CL/
+Try this working demo: [CatGame](https://rso21.github.io/Cat-Game-CL/)
 
 Enjoy :) 
