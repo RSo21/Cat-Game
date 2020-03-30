@@ -7,13 +7,13 @@ Help Luna catch as many moons as possible!
 This is my first game created using HTML, CSS and JavaScript as homework at CodersLab workshop.
 Only for desktop.
 
-![Image description]('./images/moon.jpg')
+![Image description](images/cat-game.jpg)
 
 ## Technologies:
 
-JavaScript
-HTML5
-CSS
+* JavaScript
+* HTML5
+* CSS
 
 ## Live DEMO
 
